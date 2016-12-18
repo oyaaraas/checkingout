@@ -1,4 +1,4 @@
-<h4>checkingout.com</h4>
+<h2>checkingout.com</h2>
 
 Start prosjektet med: npm run wpd
 
