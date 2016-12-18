@@ -1,10 +1,9 @@
-checkingout.com
+<h4>checkingout.com</h4>
 
 Start prosjektet med: npm run wpd
 
 
-Git commit msgs
-
+<h6>Git commit msgs</h6>
 * feat (new feature)
 * fix (bug fix)
 * docs (changes to documentation)
@@ -13,4 +12,4 @@ Git commit msgs
 * test (adding missing tests, refactoring tests; no production code change)
 * chore (updating grunt tasks etc; no production code change)
 
-ref. http://karma-runner.github.io/0.10/dev/git-commit-msg.html
+ref. http://karma-runner.github.io/1.0/dev/git-commit-msg.html
